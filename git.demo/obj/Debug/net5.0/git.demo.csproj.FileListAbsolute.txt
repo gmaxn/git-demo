@@ -1,0 +1,16 @@
+C:\Users\maxin\Desktop\git.demo\git.demo\bin\Debug\net5.0\git.demo.exe
+C:\Users\maxin\Desktop\git.demo\git.demo\bin\Debug\net5.0\git.demo.deps.json
+C:\Users\maxin\Desktop\git.demo\git.demo\bin\Debug\net5.0\git.demo.runtimeconfig.json
+C:\Users\maxin\Desktop\git.demo\git.demo\bin\Debug\net5.0\git.demo.runtimeconfig.dev.json
+C:\Users\maxin\Desktop\git.demo\git.demo\bin\Debug\net5.0\git.demo.dll
+C:\Users\maxin\Desktop\git.demo\git.demo\bin\Debug\net5.0\ref\git.demo.dll
+C:\Users\maxin\Desktop\git.demo\git.demo\bin\Debug\net5.0\git.demo.pdb
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\git.demo.csproj.AssemblyReference.cache
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\git.demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\git.demo.AssemblyInfoInputs.cache
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\git.demo.AssemblyInfo.cs
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\git.demo.csproj.CoreCompileInputs.cache
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\git.demo.dll
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\ref\git.demo.dll
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\git.demo.pdb
+C:\Users\maxin\Desktop\git.demo\git.demo\obj\Debug\net5.0\git.demo.genruntimeconfig.cache

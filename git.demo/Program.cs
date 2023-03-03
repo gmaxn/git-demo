@@ -1,4 +1,6 @@
-﻿using System;
+﻿using git.demo.A;
+using git.demo.B;
+using System;
 
 namespace git.demo
 {
@@ -6,7 +8,11 @@ namespace git.demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var a = new ServicioA();
+            var b = new ServicioB();
+
+            a.Print();
+            b.Print();
         }
     }
 }
